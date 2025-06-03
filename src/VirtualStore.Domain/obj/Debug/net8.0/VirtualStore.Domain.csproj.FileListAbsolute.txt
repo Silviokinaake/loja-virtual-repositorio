@@ -1,0 +1,12 @@
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\bin\Debug\net8.0\VirtualStore.Domain.deps.json
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\bin\Debug\net8.0\VirtualStore.Domain.dll
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\bin\Debug\net8.0\VirtualStore.Domain.pdb
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.csproj.AssemblyReference.cache
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.AssemblyInfoInputs.cache
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.AssemblyInfo.cs
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.dll
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\refint\VirtualStore.Domain.dll
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.pdb
+C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\ref\VirtualStore.Domain.dll

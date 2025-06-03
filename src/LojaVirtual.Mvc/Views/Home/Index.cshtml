@@ -1,0 +1,29 @@
+﻿@model IEnumerable<LojaVirtual.Mvc.ViewModels.Produtos.ProdutoViewModel>;
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container mt-4">
+    <h4 class="text-center mb-4">Mais Vendidos</h4>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @if (Model?.Any() == true)
+        @foreach (var produto in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm card-descricao">
+                    <img src="@produto.ImagemUrl" class="card-img-top" alt="@produto.Nome" style="height: 200px; object-fit: contain;">
+                    <div class="card-body">
+                        <p class="card-title mb-1 d-flex justify-content-between align-items-center card-title-custom">
+                            <span class="nome-produto">@produto.Nome</span>
+                            <span class="preco-box">R$ @produto.Preco?.ToString("F2")</span>
+                        </p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a asp-controller="Produtos" asp-action="Details" asp-route-id="@produto.Id" class="btn btn-custom-gray btn-sm">Ver Detalhes</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

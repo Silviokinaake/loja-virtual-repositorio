@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetoMBA\\LojaVirtual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5723523F-58FB-48E0-BA1E-627F2BB9521C}|src\\LojaVirtual.Mvc\\LojaVirtual.Mvc.csproj|c:\\projetomba\\lojavirtual\\src\\lojavirtual.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5723523F-58FB-48E0-BA1E-627F2BB9521C}|src\\LojaVirtual.Mvc\\LojaVirtual.Mvc.csproj|solutionrelative:src\\lojavirtual.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5723523F-58FB-48E0-BA1E-627F2BB9521C}|src\\LojaVirtual.Mvc\\LojaVirtual.Mvc.csproj|c:\\projetomba\\lojavirtual\\src\\lojavirtual.mvc\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5723523F-58FB-48E0-BA1E-627F2BB9521C}|src\\LojaVirtual.Mvc\\LojaVirtual.Mvc.csproj|solutionrelative:src\\lojavirtual.mvc\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6610D5-6CD0-485A-9250-54A155E36324}|src\\VirtualStore.Domain\\VirtualStore.Domain.csproj|c:\\projetomba\\lojavirtual\\src\\virtualstore.domain\\produtos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6610D5-6CD0-485A-9250-54A155E36324}|src\\VirtualStore.Domain\\VirtualStore.Domain.csproj|solutionrelative:src\\virtualstore.domain\\produtos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6610D5-6CD0-485A-9250-54A155E36324}|src\\VirtualStore.Domain\\VirtualStore.Domain.csproj|c:\\projetomba\\lojavirtual\\src\\virtualstore.domain\\categorias\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6610D5-6CD0-485A-9250-54A155E36324}|src\\VirtualStore.Domain\\VirtualStore.Domain.csproj|solutionrelative:src\\virtualstore.domain\\categorias\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522369-1CDF-4B74-B269-17ED66B05EE6}|src\\LojaVirtual.Api\\LojaVirtual.Api.csproj|c:\\projetomba\\lojavirtual\\src\\lojavirtual.api\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522369-1CDF-4B74-B269-17ED66B05EE6}|src\\LojaVirtual.Api\\LojaVirtual.Api.csproj|solutionrelative:src\\lojavirtual.api\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522369-1CDF-4B74-B269-17ED66B05EE6}|src\\LojaVirtual.Api\\LojaVirtual.Api.csproj|c:\\projetomba\\lojavirtual\\src\\lojavirtual.api\\configurations\\databaseselectorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522369-1CDF-4B74-B269-17ED66B05EE6}|src\\LojaVirtual.Api\\LojaVirtual.Api.csproj|solutionrelative:src\\lojavirtual.api\\configurations\\databaseselectorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522369-1CDF-4B74-B269-17ED66B05EE6}|src\\LojaVirtual.Api\\LojaVirtual.Api.csproj|c:\\projetomba\\lojavirtual\\src\\lojavirtual.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF522369-1CDF-4B74-B269-17ED66B05EE6}|src\\LojaVirtual.Api\\LojaVirtual.Api.csproj|solutionrelative:src\\lojavirtual.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5723523F-58FB-48E0-BA1E-627F2BB9521C}|src\\LojaVirtual.Mvc\\LojaVirtual.Mvc.csproj|c:\\projetomba\\lojavirtual\\src\\lojavirtual.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5723523F-58FB-48E0-BA1E-627F2BB9521C}|src\\LojaVirtual.Mvc\\LojaVirtual.Mvc.csproj|solutionrelative:src\\lojavirtual.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522369-1CDF-4B74-B269-17ED66B05EE6}|src\\LojaVirtual.Api\\LojaVirtual.Api.csproj|c:\\projetomba\\lojavirtual\\src\\lojavirtual.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522369-1CDF-4B74-B269-17ED66B05EE6}|src\\LojaVirtual.Api\\LojaVirtual.Api.csproj|solutionrelative:src\\lojavirtual.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5723523F-58FB-48E0-BA1E-627F2BB9521C}|src\\LojaVirtual.Mvc\\LojaVirtual.Mvc.csproj|c:\\projetomba\\lojavirtual\\src\\lojavirtual.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5723523F-58FB-48E0-BA1E-627F2BB9521C}|src\\LojaVirtual.Mvc\\LojaVirtual.Mvc.csproj|solutionrelative:src\\lojavirtual.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\LojaVirtual.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\LojaVirtual.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:43:19.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Mvc\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "src\\LojaVirtual.Mvc\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Mvc\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "src\\LojaVirtual.Mvc\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwFgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:28:09.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseSelectorExtension.cs",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Api\\Configurations\\DatabaseSelectorExtension.cs",
+              "RelativeDocumentMoniker": "src\\LojaVirtual.Api\\Configurations\\DatabaseSelectorExtension.cs",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Api\\Configurations\\DatabaseSelectorExtension.cs",
+              "RelativeToolTip": "src\\LojaVirtual.Api\\Configurations\\DatabaseSelectorExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:15:38.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Api\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\LojaVirtual.Api\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Api\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "src\\LojaVirtual.Api\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:11:21.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\LojaVirtual.Api\\Program.cs",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Api\\Program.cs",
+              "RelativeToolTip": "src\\LojaVirtual.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:07:55.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "src\\LojaVirtual.Mvc\\Program.cs",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Mvc\\Program.cs",
+              "RelativeToolTip": "src\\LojaVirtual.Mvc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:07:06.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\LojaVirtual.Api\\appsettings.json",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Api\\appsettings.json",
+              "RelativeToolTip": "src\\LojaVirtual.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T01:48:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\LojaVirtual.Mvc\\appsettings.json",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\LojaVirtual.Mvc\\appsettings.json",
+              "RelativeToolTip": "src\\LojaVirtual.Mvc\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T01:45:41.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\VirtualStore.Domain\\Produtos\\Produto.cs",
+              "RelativeDocumentMoniker": "src\\VirtualStore.Domain\\Produtos\\Produto.cs",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\VirtualStore.Domain\\Produtos\\Produto.cs",
+              "RelativeToolTip": "src\\VirtualStore.Domain\\Produtos\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:02:40.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\ProjetoMBA\\LojaVirtual\\src\\VirtualStore.Domain\\Categorias\\Categoria.cs",
+              "RelativeDocumentMoniker": "src\\VirtualStore.Domain\\Categorias\\Categoria.cs",
+              "ToolTip": "C:\\ProjetoMBA\\LojaVirtual\\src\\VirtualStore.Domain\\Categorias\\Categoria.cs",
+              "RelativeToolTip": "src\\VirtualStore.Domain\\Categorias\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:02:21.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
