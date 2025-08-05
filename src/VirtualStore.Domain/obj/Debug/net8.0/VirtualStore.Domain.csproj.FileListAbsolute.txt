@@ -10,3 +10,16 @@ C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.
 C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\refint\VirtualStore.Domain.dll
 C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.pdb
 C:\ProjetoMBA\LojaVirtual\src\VirtualStore.Domain\obj\Debug\net8.0\ref\VirtualStore.Domain.dll
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\bin\Debug\net8.0\VirtualStore.Domain.deps.json
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\bin\Debug\net8.0\VirtualStore.Domain.dll
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\bin\Debug\net8.0\VirtualStore.Domain.pdb
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.csproj.AssemblyReference.cache
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.AssemblyInfoInputs.cache
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.AssemblyInfo.cs
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.csproj.CoreCompileInputs.cache
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.sourcelink.json
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.dll
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\refint\VirtualStore.Domain.dll
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\VirtualStore.Domain.pdb
+C:\Git\LojaVirtual_MBA\loja-virtual-repositorio\src\VirtualStore.Domain\obj\Debug\net8.0\ref\VirtualStore.Domain.dll
